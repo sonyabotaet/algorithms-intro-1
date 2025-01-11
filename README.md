@@ -1,1 +1,2 @@
-here are my favourite algorithms solutions:))
+
+basic tasks from intro DSA-course on Python:)
